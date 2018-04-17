@@ -1,7 +1,7 @@
 {
   "name": "atom-ide-debugger-native-gdb",
-  "version": "0.7.0",
-  "description": "Node Debugger for Atom IDE.",
+  "version": "0.7.1",
+  "description": "Native Debugger for Atom IDE.",
   "author": "NEEDS OWNER",
   "license": "BSD-3-Clause",
   "homepage": "https://nuclide.io/",
