@@ -1,6 +1,6 @@
 {
   "name": "atom-ide-debugger-native-gdb",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Native Debugger for Atom IDE.",
   "author": "NEEDS OWNER",
   "license": "BSD-3-Clause",
@@ -18,7 +18,7 @@
     }
   },
   "dependencies": {
-    "atom-ide-debugger-native-gdb": "0.7.0"
+    "atom-ide-debugger-native-gdb": "0.7.1"
   },
   "package-deps": [
     "atom-ide-ui"
