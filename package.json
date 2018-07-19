@@ -1,13 +1,13 @@
 {
   "name": "atom-ide-debugger-native-gdb",
-  "version": "0.7.1",
-  "description": "Native Debugger for Atom IDE.",
+  "version": "0.7.3",
+  "description": "Native GDB Debugger for Atom IDE.",
   "author": "NEEDS OWNER",
   "license": "BSD-3-Clause",
   "homepage": "https://nuclide.io/",
   "repository": "https://github.com/facebook-atom/atom-ide-debugger-native-gdb",
   "engines": {
-    "atom": ">= 1.17.0"
+    "atom": ">= 1.25.0"
   },
   "providedServices": {
     "debugger.provider": {
@@ -18,7 +18,7 @@
     }
   },
   "dependencies": {
-    "atom-ide-debugger-native-gdb": "0.7.0"
+    "atom-ide-debugger-native-gdb": "0.7.2"
   },
   "package-deps": [
     "atom-ide-ui"
